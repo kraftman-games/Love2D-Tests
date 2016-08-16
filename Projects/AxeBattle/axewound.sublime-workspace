@@ -1,0 +1,1178 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"New",
+				"NewAxe"
+			],
+			[
+				"jumping",
+				"jumpingFor"
+			],
+			[
+				"jump",
+				"jumpFor"
+			],
+			[
+				"ju",
+				"jumpCount"
+			],
+			[
+				"jum",
+				"jumpingFor"
+			],
+			[
+				"Check",
+				"CheckYCollisions"
+			],
+			[
+				"v",
+				"vxmax"
+			],
+			[
+				"Mo",
+				"MoveRight"
+			],
+			[
+				"p",
+				"playerCount"
+			],
+			[
+				"ene",
+				"enemy"
+			],
+			[
+				"Chec",
+				"CheckProjectileCollisions"
+			],
+			[
+				"Add",
+				"AddToBucket"
+			],
+			[
+				"pl",
+				"playerCount"
+			],
+			[
+				"s",
+				"screenWidth"
+			],
+			[
+				"Sp",
+				"SpawnEnemy"
+			],
+			[
+				"pr",
+				"projectiles"
+			],
+			[
+				"pro",
+				"projectile"
+			],
+			[
+				"proie",
+				"projectiles"
+			],
+			[
+				"get",
+				"getGUID"
+			],
+			[
+				"joy",
+				"joystick"
+			],
+			[
+				"Remo",
+				"RemoveExpiredStreams"
+			],
+			[
+				"Dump",
+				"DumpToSyslog"
+			],
+			[
+				"cl",
+				"clientKey"
+			],
+			[
+				"client",
+				"clientKey"
+			],
+			[
+				"Get",
+				"GetRedisConnection"
+			],
+			[
+				"pixe",
+				"pixelData"
+			],
+			[
+				"pixel",
+				"pixelLabel"
+			],
+			[
+				"Pi",
+				"pixelData"
+			],
+			[
+				"las",
+				"lastCheckedTime"
+			],
+			[
+				"pix",
+				"pixelLabel"
+			],
+			[
+				"se",
+				"SendPing"
+			],
+			[
+				"js",
+				"jsonTable"
+			],
+			[
+				"sorted",
+				"sortedPixels"
+			],
+			[
+				"time",
+				"timeSince"
+			],
+			[
+				"px",
+				"pixelY"
+			],
+			[
+				"ca",
+				"canvasX"
+			],
+			[
+				"node",
+				"node_heights"
+			],
+			[
+				"hand",
+				"handshake_msgs"
+			],
+			[
+				"redis_",
+				"redis_conn"
+			],
+			[
+				"add",
+				"addr_msgs"
+			],
+			[
+				"ad",
+				"address"
+			],
+			[
+				"g",
+				"gettime"
+			],
+			[
+				"ster",
+				"streamKeyCheck"
+			],
+			[
+				"clie",
+				"clientStreamKey"
+			],
+			[
+				"stre",
+				"streamInfo"
+			],
+			[
+				"user",
+				"userIP"
+			],
+			[
+				"str",
+				"streamKeyCheck"
+			],
+			[
+				"stream",
+				"streamInfo"
+			],
+			[
+				"streamk",
+				"streamKey"
+			],
+			[
+				"acc",
+				"AccessManager"
+			],
+			[
+				"Upda",
+				"UpdateStreamInfo"
+			],
+			[
+				"Con",
+				"GetRedisConnection"
+			],
+			[
+				"Create",
+				"CreateStreamInfo"
+			],
+			[
+				"cli",
+				"clientID"
+			],
+			[
+				"sal",
+				"secretsalt"
+			],
+			[
+				"chu",
+				"chunklist_file"
+			],
+			[
+				"log",
+				"logDict"
+			],
+			[
+				"tot",
+				"totalBW"
+			],
+			[
+				"secret",
+				"secretKeyValue"
+			],
+			[
+				"url",
+				"urlKey"
+			],
+			[
+				"Has",
+				"hashedKey"
+			],
+			[
+				"of",
+				"offsetY"
+			],
+			[
+				"pick",
+				"pickerSize"
+			],
+			[
+				"pic",
+				"pickerSize"
+			],
+			[
+				"file",
+				"filesystem"
+			],
+			[
+				"Ge",
+				"GetWidth"
+			],
+			[
+				"tile",
+				"tileSize"
+			],
+			[
+				"Set",
+				"SetTileHeight"
+			],
+			[
+				"til",
+				"tileSize"
+			],
+			[
+				"In",
+				"Initialise"
+			],
+			[
+				"ti",
+				"tileSize"
+			],
+			[
+				"t",
+				"tileSize"
+			],
+			[
+				"Ini",
+				"InitialiseGrid"
+			],
+			[
+				"Update",
+				"UpdateTileAvailability"
+			],
+			[
+				"Upd",
+				"UpdateTileAvailability"
+			],
+			[
+				"a",
+				"available"
+			],
+			[
+				"n",
+				"neighborTile"
+			],
+			[
+				"see",
+				"seedTile"
+			],
+			[
+				"SetE",
+				"setEmissionRate"
+			],
+			[
+				"DRa",
+				"DrawParticles"
+			],
+			[
+				"in",
+				"insert"
+			],
+			[
+				"j",
+				"jumping"
+			],
+			[
+				"pla",
+				"playerRange"
+			],
+			[
+				"Make",
+				"MakePassiveDecision"
+			],
+			[
+				"dec",
+				"decisions"
+			],
+			[
+				"ne",
+				"nextdecisiontime"
+			],
+			[
+				"Stop",
+				"StopJump"
+			],
+			[
+				"Start",
+				"StartJump"
+			],
+			[
+				"on",
+				"OnFloor"
+			],
+			[
+				"bu",
+				"bucketsize"
+			],
+			[
+				"hasgra",
+				"hasgravity"
+			],
+			[
+				"gr",
+				"graphics"
+			],
+			[
+				"grid",
+				"grid_size"
+			],
+			[
+				"gri",
+				"grid_size"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"set",
+				"SetX"
+			],
+			[
+				"wo",
+				"World"
+			],
+			[
+				"new",
+				"newY"
+			],
+			[
+				"B",
+				"BoundsCollide"
+			],
+			[
+				"off",
+				"offsetX"
+			],
+			[
+				"c",
+				"CAMERA"
+			],
+			[
+				"sh",
+				"short_url"
+			],
+			[
+				"to",
+				"torso"
+			],
+			[
+				"ma",
+				"maxExtend"
+			],
+			[
+				"min",
+				"minRotate"
+			],
+			[
+				"table",
+				"table.sort	table.sort"
+			],
+			[
+				"max",
+				"maxExtend"
+			],
+			[
+				"leg",
+				"legConfig"
+			],
+			[
+				"l",
+				"legConfig"
+			],
+			[
+				"legm",
+				"legMaxRotate"
+			],
+			[
+				"legM",
+				"legMinRotate"
+			],
+			[
+				"tor",
+				"torsoHeight"
+			],
+			[
+				"setLimits",
+				"setLimitsEnabled"
+			],
+			[
+				"torso",
+				"torsoWidth"
+			],
+			[
+				"create",
+				"createCreature"
+			],
+			[
+				"ge",
+				"genericShapeDraw"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Experiments/Creatures/main.lua",
+			"settings":
+			{
+				"buffer_size": 781,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Experiments/Creatures/flyingcreature.lua",
+			"settings":
+			{
+				"buffer_size": 1716,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Experiments/Creatures/creature.lua",
+			"settings":
+			{
+				"buffer_size": 3080,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Experiments/Creatures/world.lua",
+			"settings":
+			{
+				"buffer_size": 1382,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Experiments/Creatures/player.lua",
+			"settings":
+			{
+				"buffer_size": 3237,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Chrispy/AppData/Local/Temp/scp33261/usr/local/openresty/nginx/conf/nginx.conf",
+			"settings":
+			{
+				"buffer_size": 494,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Experiments/Creatures/groundcreature.lua",
+			"settings":
+			{
+				"buffer_size": 3481,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/untitled.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"lua love",
+				"Set Syntax: Lua (Love)"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/Dropbox/My Documents Total/Coding/LOVE/Projects/AxeWound",
+		"/G/Dropbox/My Documents Total/Coding/LOVE/Projects/AxeWound/Experiments",
+		"/G/Dropbox/My Documents Total/Coding/LOVE/Projects/AxeWound/Experiments/Creatures"
+	],
+	"file_history":
+	[
+		"/C/Users/Chrispy/AppData/Local/Temp/scp50574/etc/nginx/sites-enabled/themines",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp59450/var/www/Settings.php",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp03160/etc/nginx/sites-available/themines",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp04081/etc/nginx/sites-enabled/themines",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp17934/etc/nginx/sites-enabled/default",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp16970/etc/nginx/nginx.conf",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp31822/etc/nginx/sites-enabled/ltlbit",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp28248/var/www/itschris/wp-config.php",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp28070/var/www/itschris/wp-settings.php",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp12753/etc/nginx/sites-enabled/itschris",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp14816/etc/php5/fpm/pool.d/www.conf",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp14178/etc/php5/fpm/php.ini",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp39146/var/log/lighttpd/access.log",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp12569/etc/nginx/sites-available/itschris",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp40326/opt/ts3/logs/ts3server_2015-03-28__20_40_41.249413_0.log",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp39208/opt/ts3/ts3server_startscript.sh",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp36680/etc/init.d/teamspeak",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp46073/var/www/Settings.php",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp13993/etc/lighttpd/lighttpd.conf",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp43565/etc/lighttpd/conf-enabled/10-accesslog.conf",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp30939/var/log/lighttpd/error.log",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp42143/etc/lighttpd/conf-enabled/10-fastcgi.conf",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp23466/etc/nginx/sites-enabled/default",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp23084/etc/nginx/nginx.conf",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp13297/etc/lighttpd/lighttpd.conf",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp09977/var/www/www/varwww.zip",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp01907/etc/nginx/sites-enabled/ltlbit",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp01852/etc/nginx/nginx.conf",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp01554/etc/nginx/sites-enabled/default",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp54423/home/mc/bungee/terra/spigot.yml",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp54285/home/mc/bungee/terra/bukkit.yml",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp21152/home/mc/bungee/terra/startspigot.sh",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp24582/home/mc/bungee/terra/server.properties",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp16625/etc/rc.local",
+		"/G/Dropbox/My Documents Total/Coding/LOVE/Projects/AxeWound/Experiments/Creatures/main.lua",
+		"/G/Dropbox/My Documents Total/Coding/LOVE/Projects/AxeWound/Experiments/Creatures/player.lua",
+		"/G/Dropbox/My Documents Total/Coding/LOVE/Projects/AxeWound/Experiments/Creatures/axe.lua",
+		"/G/Dropbox/My Documents Total/Coding/LOVE/Projects/AxeWound/Experiments/Creatures/creature.lua",
+		"/G/Dropbox/My Documents Total/Coding/LOVE/Projects/DGL2/Tests/Creatures/groundcreature.lua",
+		"/G/Dropbox/My Documents Total/Coding/LOVE/Tests/Controller/projectile.lua",
+		"/G/Dropbox/My Documents Total/Coding/LOVE/Tests/Controller/enemies.lua",
+		"/G/Dropbox/My Documents Total/Coding/LOVE/Tests/Controller/world.lua",
+		"/G/Dropbox/My Documents Total/Coding/LOVE/Tests/Controller/player.lua",
+		"/G/Dropbox/My Documents Total/Coding/LOVE/Tests/Controller/main.lua",
+		"/G/Dropbox/My Documents Total/Coding/LOVE/Projects/DGL2/Tests/Creatures/creature.lua",
+		"/G/Dropbox/My Documents Total/Coding/LOVE/Projects/DGL2/Tests/Creatures/world.lua",
+		"/G/Dropbox/My Documents Total/Coding/LOVE/Tests/TestMan/main.lua",
+		"/C/Users/Chrispy/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp10186/opt/cdn-lua/openresty/nginx/lua/secure.lua",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp42896/opt/cdn-lua/openresty/nginx/lua/access.lua",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp51578/opt/cdn-lua/openresty/nginx/lua/workertimer.lua",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp07871/opt/cdn-lua/openresty/nginx/lua/AccessManager.lua",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp55475/opt/cdn-lua/openresty/nginx/conf/nginx.conf",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp17815/opt/cdn-lua/openresty/nginx/lua/streamstats.lua",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp31932/opt/cdn-lua/README.md",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp55569/opt/cdn-lua/openresty/nginx/conf/lua.conf",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp56104/etc/nginx/sites-enabled/steam",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp55415/etc/nginx/sites-available/steam.config",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp54924/var/log/nginx/error.log",
+		"/C/Users/Chrispy/Downloads/subtv",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp12498/etc/rc.local",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp28006/etc/transmission-daemon/settings.json",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp43932/usr/local/openresty/nginx/lua/api.lua",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp52723/usr/local/openresty/nginx/lua/websocket.lua",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp18590/data/www/map/map.js",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp34228/data/www/map/index.html",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp50052/usr/local/openresty/nginx/conf/sites-enabled/ltlbit",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp50736/var/log/nginx/error.log",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp57047/data/www/map/websocket.html",
+		"/C/Users/Chrispy/AppData/Local/Temp/7zOCDA39BE5/colpick.jquery.json",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp00087/usr/local/openresty/nginx/lua/m3u8man.lua",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp59790/usr/local/openresty/nginx/lua/smoothstream.lua",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp09407/usr/local/openresty/nginx/lua/websocket2.lua",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp53257/data/www/websocket.html",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp27665/usr/local/openresty/nginx/conf/sites-enabled/ltlbit",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp39909/usr/local/openresty/lualib/addressman.lua",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp26798/usr/local/openresty/nginx/lua/api.lua",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp20756/data/www/map/index.html",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp27780/data/www/map/map.js",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp57973/var/log/nginx/error.log",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp07724/usr/local/openresty/lualib/cjson.so",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp56345/usr/local/openresty/nginx/conf/nginx.conf",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp51386/usr/local/openresty/nginx/logs/error.log",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp27708/data/www/map/spectrum.js",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp33018/usr/local/openresty/nginx/conf/sites-enabled/ltlbit",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp00248/data/www/map/index.html",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp24090/data/www/map/map.js",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp01670/data/www/index.html",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp33325/usr/local/openresty/lualib/addressman.lua",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp33608/usr/local/openresty/nginx/lua/api.lua",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp03014/var/log/nginx/error.log",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp31217/usr/local/openresty/nginx/lua/access.lua",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp07552/usr/local/openresty/nginx/conf/nginx.conf",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp07058/usr/local/openresty/nginx/conf/sites-enabled/default",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp48502/etc/nginx/sites-enabled/ltlbit",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp01762/data/www/content.lua",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp05159/usr/share/nginx/content.lua",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp05150/usr/share/nginx/api.lua",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp06015/data/www/map/excanvas.js",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp18435/home/chris/bitnodes/start.sh",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp18027/home/chris/bitnodes/crawl.py",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp53315/etc/nginx/sites-enabled/ltlbit",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp42677/var/log/nginx/error.log",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp00195/data/www/map/index.html",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp58173/etc/nginx/sites-available/ltlbit.old",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp03290/home/chris/bitnodes/protocol.py",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp55306/home/chris/bitnodes/seeder.py",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp00767/home/chris/bitnodes/crawl.conf",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp48949/home/chris/bitnodes/crawl.py",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp48171/home/chris/bitnodes/crawl.log",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp41685/home/chris/bitnodes/start.sh",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp44189/home/chris/bitnodes/crawl.master.out",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp56384/home/chris/bitnodes/pcap.py",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp55745/home/chris/bitnodes/resolve.py",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp55143/home/chris/bitnodes/ping.py",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp00122/home/chris/bitnodes/data/crawl/1418774686.json",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp42522/home/chris/bitnodes/data/crawl/1418942565.json",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp03123/home/chris/bitnodes/protocol.pyc",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp56373/etc/redis/redis.conf",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp14212/home/chris/bitnodes/geoip/update.sh",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp29692/home/chris/bitnodes/seeder.py",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp20508/home/chris/bitnodes/start.sh",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp55907/home/chris/bitnodes/crawl.py",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp13611/home/chris/bitnodes/pcap.1.out",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp53594/home/chris/bitnodes/crawl.log",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp52797/home/chris/bitnodes/crawl.conf",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp50892/home/chris/bitnodes/data/pcap/1418770283.pcap",
+		"/C/Users/Chrispy/AppData/Local/Temp/scp12344/home/chris/bitnodes/crawl.master.out"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"require",
+			"mysq",
+			"cgi.fix_",
+			"mod_accesslog",
+			"14",
+			"self",
+			"dt",
+			"CollidesWithWorld",
+			"enemies",
+			"playerCount",
+			"activePlayers",
+			"getName",
+			"getGUID",
+			"p",
+			")\n",
+			"\")\n",
+			"v",
+			"CheckKilledKeys",
+			"FlushExpiredKeys",
+			"DumpStats",
+			"ScheduleTimer",
+			"key",
+			"AddStreamInfo",
+			"red",
+			"ProcessCDNKey",
+			"checking",
+			"flatPixels",
+			"	\n",
+			"redis_pipe",
+			"pending",
+			"height:",
+			"upnodes",
+			"json_data",
+			"append",
+			"height",
+			"height:",
+			"state",
+			"socket",
+			"connect",
+			"process_pending_connections",
+			"pending",
+			"slave",
+			"enumerate_node",
+			"key",
+			"keys",
+			"connect",
+			"node:",
+			"cron",
+			"set_pending",
+			"connect",
+			"(key",
+			".set",
+			".add",
+			"add",
+			"state",
+			"rechable_nodes",
+			"nodes",
+			"restart",
+			"node:",
+			"restart",
+			"set_pending",
+			"state",
+			"restart",
+			"set_pending",
+			"connect",
+			"enumerate_node",
+			"process_pending_connections",
+			"height",
+			"height:",
+			"Counter",
+			"dump",
+			"restart",
+			"connect",
+			"restart",
+			"slave",
+			"task",
+			"cron",
+			"encode",
+			"httpd_accel",
+			"cache.lo",
+			"log ",
+			"log",
+			"resolv-",
+			"dns-forward-max",
+			"cache_",
+			"cache",
+			"cahce_dir",
+			"test",
+			"http_access",
+			"http_access deny blocked_websites",
+			"acl ",
+			"http_access ",
+			"/usr",
+			"ssl",
+			"AddToAllStreams",
+			"230",
+			"user",
+			"say",
+			"print",
+			"createstream",
+			"chunklist",
+			"UpdateStreamExpiration",
+			"md5",
+			"getTime",
+			"info",
+			"GetRedisConnection",
+			"StreamExists",
+			"cdntest",
+			"secretKey",
+			"SecretKey",
+			"secretKey",
+			"ValidateSecretKey",
+			"split",
+			"self",
+			"dec_",
+			"gtime",
+			"hextime",
+			"key",
+			"gtime",
+			"50x",
+			"tvcatchup",
+			"loggin",
+			"values",
+			"function",
+			"key",
+			"chunklist",
+			"key",
+			"tvc-origins"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Experiments/Creatures/main.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 781,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								449,
+								449
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "Experiments/Creatures/flyingcreature.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1144,
+								1144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 585.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Experiments/Creatures/creature.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1121,
+								1121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Experiments/Creatures/world.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1368,
+								1368
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Experiments/Creatures/player.lua",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/Chrispy/AppData/Local/Temp/scp33261/usr/local/openresty/nginx/conf/nginx.conf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/sublime-nginx-master/Syntaxes/nginx.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Experiments/Creatures/groundcreature.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2680,
+								2680
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1350.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 247.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "axewound.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"G:\\Dropbox\\My Documents Total\\Coding\\LOVE\\Projects\\DontGoLeft\\Main\\dontgoleft.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

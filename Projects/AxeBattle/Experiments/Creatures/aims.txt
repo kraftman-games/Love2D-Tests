@@ -1,0 +1,18 @@
+
+
+
+Passive
+move left - done
+move right - done
+stop - done
+
+jump over obstacle - done
+
+detect player in range and move towards - done
+convert template seperate creature - done
+
+flee - done
+fly - done
+attack while flying
+
+
